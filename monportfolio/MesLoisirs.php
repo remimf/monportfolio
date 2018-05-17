@@ -106,7 +106,7 @@
                     </div>	
                 </section>
 
-                <footer class="">
+                <footer class="lead">
                     <p class="float-right"><a href="#">Revenir en haut</a></p>
                     <p>© 2018 Copyright, Rémi Marthe-Félicie | <a href="../Mentions/Index">Mentions légales</a></p>
                     <!--Start Cookie Script-->

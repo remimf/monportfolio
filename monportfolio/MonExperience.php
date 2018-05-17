@@ -50,12 +50,12 @@
             <h1>MES EXPÉRIENCES</h1>
         </div>
     </div>
-    <div class="container-fluid p-0">
+    <div class="container-fluid p-">
         <!-- début de la page -->
 
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Mon experience">
             <div class="my-auto">
-                <h2 class="mb-5">Mes experiences</h2>
+                <h2 class="mb-5">Mon experience</h2>
                 <div class="row">
                     <div class="col-lg-15">			
                         <p> </p>
@@ -174,10 +174,10 @@
                             </div>
                             <p> </p>
                             <div class="resume-date text-md-right">
-                                <span class="text-primary">Du <strong>02 Juin 2013</strong> au <strong>04 Juillet 2013</strong></span>
+                                <span class="text-primary">Du <strong>DATES STAGE</strong> au <strong>DATES STAGE</strong></span>
                                 <p> </p>
-                                <a href="http://franck-sono.com/" target="_blank">
-                                    <img border="0" src="../img/Franck_Sono.png" alt="Franck Sono" align="absmiddle">
+                                <a href="http://www.euralis.fr/" target="_blank">
+                                    <img border="0" src="images/6.euralis-logo.jpg" alt="Euralis" align="absmiddle">
                                 </a>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
             </div>
         </section>
 
-        <footer class="container">
+        <footer class="">
             <p class="float-right"><a href="#">Revenir en haut</a></p>
             <p>© 2018 Copyright, Rémi Marthe-Félicie | <a href="../Mentions/Index">Mentions légales</a></p>
         </footer>

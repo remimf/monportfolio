@@ -48,110 +48,111 @@
         </nav>
         <div id="main">
             <h2>MES COMPÉTENCES</h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="card h-80">
-                    <span class="mb-0 bg-secondary text-white text-center"><strong>OS (Windows)</strong></span>
-                    <img class="card-img-top" src="../img/Windows_OS.png" alt="OS Windows" style="height: 220px">
-                    <div class="card-body">
-                        <p class="card-text">
-                        </p><ul class="fa-ul mb-0">
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 7</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Winsows 8</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 8.1</li>
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 10</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows Server 2012 (R2)</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows Server 2016</li>								
-                        </ul>
-                        <p></p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ★</font></small>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="card h-80">
-                    <span class="mb-0 bg-secondary text-white text-center"><strong>Serveur (Windows)</strong></span>
-                    <img class="card-img-top" src="../img/Windows_Server.jpg" alt="Windows Serveur" style="height: 220px">
-                    <div class="card-body">
-                        <p class="card-text">
-                        </p><ul class="fa-ul mb-0">
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>AD DS</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DNS</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DHCP</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DFS</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Serveur d'impression</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Sauvegarde entreprise</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Redondance</li>									
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Continuité de service</li>									
-                        </ul>
-                        <p></p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ☆</font></small>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-80">
+                        <span class="mb-0 bg-secondary text-white text-center"><strong>OS (Windows)</strong></span>
+                        <img class="card-img-top" src="../img/Windows_OS.png" alt="OS Windows" style="height: 220px">
+                        <div class="card-body">
+                            <p class="card-text">
+                            </p><ul class="fa-ul mb-0">
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 7</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Winsows 8</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 8.1</li>
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows 10</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows Server 2012 (R2)</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Windows Server 2016</li>								
+                            </ul>
+                            <p></p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ★</font></small>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="card h-80">
-                    <span class="mb-0 bg-secondary text-white text-center"><strong>Web</strong></span>
-                    <img class="card-img-top" src="../img/Web.jpg" alt="Web" style="height: 220px">
-                    <div class="card-body">
-                        <p class="card-text">
-                        </p><ul class="fa-ul mb-0">
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>PHP</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>SQL</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>HTML</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>CSS</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Webdesign</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Developpement application</li>								
-                        </ul>
-                        <p></p>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted"><font color="#D0673B">★ ★ ★ ☆ ☆</font></small>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="card h-80">
-                    <span class="mb-0 bg-secondary text-white text-center"><strong>OS (Linux)</strong></span>
-                    <img class="card-img-top" src="../img/Linux.jpg" alt="OS Linux" style="height: 220px">
-                    <div class="card-body">
-                        <p class="card-text">
-                        </p><ul class="fa-ul mb-0">
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Ubuntu</li>									
-                        </ul>
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted"><font color="#D0673B">★ ★ ☆ ☆ ☆</font></small>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-80">
+                        <span class="mb-0 bg-secondary text-white text-center"><strong>Serveur (Windows)</strong></span>
+                        <img class="card-img-top" src="../img/Windows_Server.jpg" alt="Windows Serveur" style="height: 220px">
+                        <div class="card-body">
+                            <p class="card-text">
+                            </p><ul class="fa-ul mb-0">
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>AD DS</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DNS</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DHCP</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DFS</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Serveur d'impression</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Sauvegarde entreprise</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Redondance</li>									
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Continuité de service</li>									
+                            </ul>
+                            <p></p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ☆</font></small>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4">
-                <div class="card h-80">
-                    <span class="mb-0 bg-secondary text-white text-center"><strong>Serveur (Linux)</strong></span>
-                    <img class="card-img-top" src="../img/Linux_Serveur.jpg" alt="Linux Serveur" style="height: 220px">
-                    <div class="card-body">
-                        <p class="card-text">
-                        </p><ul class="fa-ul mb-0">
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Debian</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Partage Samba</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>FTP sécurisé</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Scripts sauvegarde</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DHCP</li>								
-                            <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Web (apache, phpmyadmin, mysql)</li>									
-                        </ul>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-80">
+                        <span class="mb-0 bg-secondary text-white text-center"><strong>Web</strong></span>
+                        <img class="card-img-top" src="../img/Web.jpg" alt="Web" style="height: 220px">
+                        <div class="card-body">
+                            <p class="card-text">
+                            </p><ul class="fa-ul mb-0">
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>PHP</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>SQL</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>HTML</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>CSS</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Webdesign</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Developpement application</li>								
+                            </ul>
+                            <p></p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted"><font color="#D0673B">★ ★ ★ ☆ ☆</font></small>
+                        </div>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ☆</font></small>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-80">
+                        <span class="mb-0 bg-secondary text-white text-center"><strong>OS (Linux)</strong></span>
+                        <img class="card-img-top" src="../img/Linux.jpg" alt="OS Linux" style="height: 220px">
+                        <div class="card-body">
+                            <p class="card-text">
+                            </p><ul class="fa-ul mb-0">
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Ubuntu</li>									
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted"><font color="#D0673B">★ ★ ☆ ☆ ☆</font></small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-80">
+                        <span class="mb-0 bg-secondary text-white text-center"><strong>Serveur (Linux)</strong></span>
+                        <img class="card-img-top" src="../img/Linux_Serveur.jpg" alt="Linux Serveur" style="height: 220px">
+                        <div class="card-body">
+                            <p class="card-text">
+                            </p><ul class="fa-ul mb-0">
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Debian</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Partage Samba</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>FTP sécurisé</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Scripts sauvegarde</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>DHCP</li>								
+                                <li><font color="#D0673B"><i class="fa-li fa fa-check"></i></font>Web (apache, phpmyadmin, mysql)</li>									
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted"><font color="#D0673B">★ ★ ★ ★ ☆</font></small>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <p>© 2017 Copyright, Rémi Marthe-Félicie | <a href="../Mentions/Index">Mentions légales</a></p>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>

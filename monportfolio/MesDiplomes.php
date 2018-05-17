@@ -48,57 +48,59 @@
         </nav>
         <div id="main">
             <h1>MES DIPLÔMES</h1>
-        </div>
-        <div class="row">
-            <div class="col-lg-15">
-                <p> </p>
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Niv. III - Bac +2 Gestionnaire en Maintenance et Support Informatique</h3>
-                        <a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank"></a><div class="subheading mb-3"><a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank">CESI</a> – Pau (64)</div>
-                        <div>Contrat en alternance</div>
+            <div class="">
+                <div class="col-lg-15">
+                    <p> </p>
+                    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                        <div class="resume-content mr-auto">
+                            <h3 class="mb-0">Niv. III - Bac +2 Gestionnaire en Maintenance et Support Informatique</h3>
+                            <a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank"></a><div class="subheading mb-3"><a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank">CESI</a> – Pau (64)</div>
+                            <div>Contrat en alternance</div>
+                        </div>
+                        <div class="resume-date text-md-right">
+                            <span class="text-primary">De <strong>2016</strong> à <strong>2018</strong></span>
+                            <p> </p>
+                            <a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank">
+                                <img border="0" border-radius="20px" src="images/cesi.jpg" alt="CESI" align="absmiddle">
+                            </a>
+                        </div>
                     </div>
-                    <div class="resume-date text-md-right">
-                        <span class="text-primary">De <strong>2016</strong> à <strong>2018</strong></span>
-                        <p> </p>
-                        <a href="https://www.cesi-alternance.fr/centre/Pau/" target="_blank">
-                            <img border="0" border-radius="20px" src="../img/CESI.png" alt="CESI" align="absmiddle">
-                        </a>
+                    <hr>
+                    <div class="resume-item d-flex flex-column flex-md-row">
+                        <div class="resume-content mr-auto">
+                            <h3 class="mb-0">Niv. IV - Bac Pro SEN (Systèmes Electroniques et Numériques)</h3>
+                            <h3>Option Télécommunication & Réseaux</h3>
+                            <div class="subheading mb-3"><a href="http://lycee-guynemer.com/" target="_blank">Lycée professionnel Guynemer</a> – Oloron-Sainte-Marie (64)</div>
+                        </div>
+                        <p></p>
+                        <div class="resume-date text-md-right">
+                            <span class="text-primary">De <strong>2013</strong> à <strong>2016</strong></span>
+                            <p> </p>
+                            <a href="http://lycee-guynemer.com/" target="_blank">
+                                <img border="0" border-radius="20px" src="images/Lycee-Guynemer.jpg" alt="Oloron-Sainte-Marie" align="absmiddle">
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <hr>
-                <div class="resume-item d-flex flex-column flex-md-row">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Niv. IV - Bac Pro SEN (Systèmes Electroniques et Numériques)</h3>
-                        <div class="subheading mb-3"><a href="http://lycee-guynemer.com/" target="_blank">Lycée professionnel Guynemer</a> – Oloron-Sainte-Marie (64)</div>
-                    </div>
-                    <p></p>
-                    <div class="resume-date text-md-right">
-                        <span class="text-primary">De <strong>2013</strong> à <strong>2016</strong></span>
-                        <p> </p>
-                        <a href="http://www.saint-genes.com/6-lycee-professionnel.html" target="_blank">
-                            <img border="0" border-radius="20px" src="../img/stgenes.jpg" alt="Oloron-Sainte-Marie" align="absmiddle">
-                        </a>
-                    </div>
-                </div>
-                <hr>
-                <div class="resume-item d-flex flex-column flex-md-row">
-                    <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Niv. V - BEP SEN (Systèmes Electroniques et Numériques)</h3>
-                        <div class="subheading mb-3"><a href="http://lycee-guynemer.com/" target="_blank">Lycée professionnel Guynemer</a> – Oloron-Sainte-Marie (64)</div>
-                    </div>
-                    <p></p>
-                    <div class="resume-date text-md-right">
-                        <span class="text-primary">De <strong>2013</strong> à <strong>2015</strong></span>
-                        <p> </p>
-                        <a href="http://lycee-guynemer.com/" target="_blank">
-                            <img border="0" border-radius="20px" src="../img/stgenes.jpg" alt="Oloron-Sainte-Marie" align="absmiddle">
-                        </a>
+                    <hr>
+                    <div class="resume-item d-flex flex-column flex-md-row">
+                        <div class="resume-content mr-auto">
+                            <h3 class="mb-0">Niv. V - BEP SEN (Systèmes Electroniques et Numériques)</h3>
+                            <div class="subheading mb-3"><a href="http://lycee-guynemer.com/" target="_blank">Lycée professionnel Guynemer</a> – Oloron-Sainte-Marie (64)</div>
+                        </div>
+                        <p></p>
+                        <div class="resume-date text-md-right">
+                            <span class="text-primary">De <strong>2013</strong> à <strong>2015</strong></span>
+                            <p> </p>
+                            <a href="http://lycee-guynemer.com/" target="_blank">
+                                <img border="0" border-radius="20px" src="images/guynemer.jpg" alt="Oloron-Sainte-Marie" align="absmiddle">
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>

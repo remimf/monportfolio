@@ -158,7 +158,7 @@
                     </div>			
                 </section>
 
-                <footer class="container">
+                <footer class="">
                     <p class="float-right"><a href="#">Revenir en haut</a></p>
                     <p>© 2018 Copyright, Rémi Marthe-Félicie | <a href="../Mentions/Index">Mentions légales</a></p>
                 </footer>
